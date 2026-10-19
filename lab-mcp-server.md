@@ -44,7 +44,7 @@ cd lab04
 ### 2. Write the MCP server
 
 ```powershell
-notepad orders_server.py
+vi orders_server.py
 ```
 
 ```python
@@ -104,7 +104,7 @@ if __name__ == "__main__":
 ### 3. Test the server from Python
 
 ```powershell
-notepad test_stdio.py
+vi test_stdio.py
 ```
 
 ```python
