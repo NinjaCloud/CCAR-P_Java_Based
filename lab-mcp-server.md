@@ -147,9 +147,11 @@ resource: Refunds are allowed within 30 days of delivery. Orders above 100 USD n
 Get the full paths, then register the server:
 
 ```powershell
-$py  = (Get-Command python).Source
-$srv = (Resolve-Path .\orders_server.py).Path
-claude mcp add --transport stdio orders -- $py $srv
+py=$(which python)
+srv=$(realpath ./orders_server.py)
+
+claude mcp add --transport stdio orders -- "$py" "$srv"
+
 claude mcp list
 ```
 
