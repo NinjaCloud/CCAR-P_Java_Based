@@ -28,10 +28,15 @@ You will learn: tools vs resources, input validation on the server, structured e
 ## Steps
 
 ### 1. Create the lab folder
+```
+mkdir C:\cca-labs
+cd C:\cca-labs
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+```
+
 
 ```powershell
-cd C:\cca-labs
-.\.venv\Scripts\Activate.ps1
 mkdir lab04
 cd lab04
 ```
