@@ -31,8 +31,8 @@ You will learn: tools vs resources, input validation on the server, structured e
 ```
 mkdir C:\cca-labs
 cd C:\cca-labs
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
+python3 -m venv .venv
+source .venv\bin\activate
 ```
 
 
