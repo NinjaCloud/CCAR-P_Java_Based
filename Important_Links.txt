@@ -8,3 +8,6 @@ https://eshoponweb-webapp-ninad.azurewebsites.net/
 
 https://github.com/NinjaCloud/ClaudeCode-Mastery-Handbook.git
 
+command to access vm
+ssh azureuser@4.224.253.242 
+
