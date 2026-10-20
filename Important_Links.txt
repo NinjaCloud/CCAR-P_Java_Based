@@ -1,0 +1,10 @@
+https://github.com/containers/kubernetes-mcp-server
+
+https://github.com/NinjaCloud/claude-agent-sdk-demos.git
+
+https://openrouter.ai/models
+
+https://eshoponweb-webapp-ninad.azurewebsites.net/
+
+https://github.com/NinjaCloud/ClaudeCode-Mastery-Handbook.git
+
