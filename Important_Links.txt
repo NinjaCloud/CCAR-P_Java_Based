@@ -11,3 +11,7 @@ https://github.com/NinjaCloud/ClaudeCode-Mastery-Handbook.git
 command to access vm
 ssh azureuser@4.224.253.242 
 
+Task to Perform 
+create CICD pipeline for AI Agent Kubernetes lab ( any kubernetes cluster ) 
+
+kubernetes alternavtiv : https://killercoda.com/
